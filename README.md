@@ -144,8 +144,6 @@ docs/license-provenance.md  License source and adaptation record
 
 The Fraunhofer-provided XSpecCorr software is distributed under the [Software Copyright License for Academic Use of XSpecCorr, Version 2.0](LICENSE). It permits internal non-commercial evaluation, testing and academic research. Commercial use requires another license from Fraunhofer; contact details are in the license.
 
-The license is based on the [RIPEpp license](https://github.com/fraunhoferhhi/RIPEpp/blob/main/LICENSE), with the project name changed to XSpecCorr. See the [adaptation record](docs/license-provenance.md).
-
 Dataset and pretrained-weight terms will be stated with their releases. Third-party software and materials, including the USGS source data and upstream model implementations, retain their own applicable terms.
 
 ## Acknowledgements

@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use XSpecCorr, please cite the accompanying paper."
+title: "XSpecCorr: Cross-Spectral Dense Correspondence for Multimodal Spectral Medical Imaging"
+type: software
+authors:
+  - family-names: Wisotzky
+    given-names: Eric L.
+  - family-names: Triller
+    given-names: Jost
+  - family-names: Härtl
+    given-names: Simon W.
+  - family-names: Bruns
+    given-names: Oliver T.
+  - family-names: Eisert
+    given-names: Peter
+  - family-names: Hilsmann
+    given-names: Anna
+repository-code: "https://github.com/fraunhoferhhi/XSpecCorr"
+preferred-citation:
+  type: article
+  title: "Cross-Spectral Dense Correspondence for Multimodal Spectral Medical Imaging"
+  authors:
+    - family-names: Wisotzky
+      given-names: Eric L.
+    - family-names: Triller
+      given-names: Jost
+    - family-names: Härtl
+      given-names: Simon W.
+    - family-names: Bruns
+      given-names: Oliver T.
+    - family-names: Eisert
+      given-names: Peter
+    - family-names: Hilsmann
+      given-names: Anna
+  year: 2026
+  journal: arXiv
+  doi: "10.48550/arXiv.2608.28341"
+  url: "https://arxiv.org/abs/2608.28341"
